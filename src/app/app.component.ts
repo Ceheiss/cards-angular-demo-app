@@ -9,4 +9,10 @@ import { CardData } from './model/CardData';
 export class AppComponent {
   title = 'cards-angular-demo-app';
   cardData: CardData[] = CARD_DATA;
+
+  selectedPlace: string;
+
+  onPlaceSelected(place: string) {
+    this.selectedPlace = place;
+  }
 }

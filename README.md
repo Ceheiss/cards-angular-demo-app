@@ -4,7 +4,7 @@ This app is made for educational purposes to compare an identical app made with 
 
 The app is super simple, just displays different cards with names and images... WOW yes I know.
 
-Anyhow, here is the [React App Repo](https://github.com/Ceheiss/cards-react-demo-app)
+Anyhow, here is the sibling [React App Repo](https://github.com/Ceheiss/cards-react-demo-app)
 
 and here is this [deployed repo](https://cards-angular-demo-app.vercel.app/)
 

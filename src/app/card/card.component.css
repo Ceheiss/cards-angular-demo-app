@@ -9,3 +9,14 @@
   border: 3px solid #333;
   margin: 15px;
 }
+
+button {
+  margin-top: 15px;
+  padding: 5px;
+  border-radius: 7px;
+  background-color: #222;
+  color: white;
+  font-weight: bold;
+  border: 3px solid black;
+  cursor: pointer;
+}

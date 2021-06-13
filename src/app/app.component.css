@@ -5,3 +5,10 @@
   align-items: center;
   justify-content: center;
 }
+
+.selected-place {
+  text-transform: uppercase;
+  height: 40px;
+  text-align: center;
+  padding-top: 15px;
+}

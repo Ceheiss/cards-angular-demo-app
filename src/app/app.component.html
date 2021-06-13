@@ -1,3 +1,8 @@
+<h1 class="selected-place">{{selectedPlace}}</h1>
 <div class="cards">
-  <app-card *ngFor="let card of cardData" [cardData]="card"></app-card>
+  <app-card
+    *ngFor="let card of cardData"
+    [cardData]="card"
+    (selectedPlace)="onPlaceSelected($event)">
+  </app-card>
 </div>
